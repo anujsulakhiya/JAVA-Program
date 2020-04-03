@@ -1,4 +1,3 @@
-import java.nio.IntBuffer;
 import java.util.*; 
 
 public class allcalc{
