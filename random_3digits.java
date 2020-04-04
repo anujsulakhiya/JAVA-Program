@@ -22,9 +22,9 @@ public class random_3digits{
 
             System.out.println("Enter First Number :");
             a=in.nextInt();
-            System.out.println("Enter First Number :");
+            System.out.println("Enter Second Number :");
             b=in.nextInt();
-            System.out.println("Enter First Number :");
+            System.out.println("Enter Third Number :");
             c=in.nextInt();
             
             
